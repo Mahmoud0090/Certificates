@@ -1,6 +1,7 @@
 # online certificates from coursera
 
 python
+
 https://www.coursera.org/account/accomplishments/certificate/UMDTDLYHYAS6
 https://www.coursera.org/account/accomplishments/certificate/WYK7PEPED93V
 https://www.coursera.org/account/accomplishments/certificate/332N65XX7LE6
@@ -9,16 +10,19 @@ https://www.coursera.org/account/accomplishments/certificate/55WHHFU4KWP7
 
 
 deep learning specialization
+
 https://www.coursera.org/account/accomplishments/specialization/certificate/TMUTXLQSW2DP
 
 
 
 object oriented programming in java
+
 https://www.coursera.org/account/accomplishments/specialization/certificate/TWJCNPSAZWVB
 
 
 
 tensorflow in practice specialization
+
 https://www.coursera.org/account/accomplishments/certificate/AX5D3KM54G9Z
 https://www.coursera.org/account/accomplishments/certificate/GL6V6Y5WWUMM
 https://www.coursera.org/account/accomplishments/certificate/LZ6RFTHL23HL
@@ -28,16 +32,20 @@ tensorflow 2 for deep learning
 
 https://www.coursera.org/account/accomplishments/certificate/5JD7VX6GSGS6
 https://www.coursera.org/account/accomplishments/certificate/M8UVQKU4V4K6
+
+
 sql for data science
+
 https://www.coursera.org/account/accomplishments/certificate/93VJXFVX7MW4
 
 mathematics for machine learning
+
 https://www.coursera.org/account/accomplishments/certificate/6SAHMHGCV2HJ
 https://www.coursera.org/account/accomplishments/certificate/MJJKDW2B3TNQ
 
 IBM data science
-https://www.coursera.org/account/accomplishments/certificate/3Q3GRPNKCLPA
 
+https://www.coursera.org/account/accomplishments/certificate/3Q3GRPNKCLPA
 https://www.coursera.org/account/accomplishments/certificate/XQUE4XX8UXPL
 https://www.coursera.org/account/accomplishments/certificate/4KGKFDY2XU76
 https://www.coursera.org/account/accomplishments/certificate/4F9CT2BR9NNJ
