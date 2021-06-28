@@ -60,3 +60,6 @@ tensorflow advance techniques
 https://www.coursera.org/account/accomplishments/certificate/82WA3ZVQUTL5
 https://www.coursera.org/account/accomplishments/certificate/J9JSHB48RUHH
 https://www.coursera.org/account/accomplishments/certificate/VBGHYN7CC7ZK
+
+AWS Cloud Technical Essentials
+https://www.coursera.org/account/accomplishments/certificate/7VR2N9DEZCG5
