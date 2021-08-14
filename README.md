@@ -63,3 +63,10 @@ https://www.coursera.org/account/accomplishments/certificate/VBGHYN7CC7ZK
 
 AWS Cloud Technical Essentials
 https://www.coursera.org/account/accomplishments/certificate/7VR2N9DEZCG5
+
+Linear circuits 1 : DC analysis
+https://www.coursera.org/account/accomplishments/certificate/XNN4M4K5XU42
+
+
+The Arduino Platform and C Programming
+https://www.coursera.org/account/accomplishments/certificate/UQWGVRMD4GCT
