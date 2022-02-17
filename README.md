@@ -67,6 +67,12 @@ https://www.coursera.org/account/accomplishments/certificate/7VR2N9DEZCG5
 Linear circuits 1 : DC analysis
 https://www.coursera.org/account/accomplishments/certificate/XNN4M4K5XU42
 
+Linear circuits 2 : AC analysis
+https://www.coursera.org/account/accomplishments/verify/UV53XTWRY599
+
+intro to electronics
+https://www.coursera.org/account/accomplishments/verify/TZ2YRAJMKVY5
+
 
 The Arduino Platform and C Programming
 https://www.coursera.org/account/accomplishments/certificate/UQWGVRMD4GCT
