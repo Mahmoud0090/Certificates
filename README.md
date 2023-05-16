@@ -119,3 +119,16 @@ intro to power electronics : https://www.coursera.org/account/accomplishments/ce
 
 
 converter circuits : https://www.coursera.org/account/accomplishments/certificate/3WQAMR2KLSGH (1 cource Approximately 1 month)
+
+
+**************************************************************************************************
+
+
+also I attended the below c++ video series
+https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+
+
+
+
+
+
