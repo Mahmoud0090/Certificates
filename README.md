@@ -67,21 +67,21 @@ https://www.coursera.org/account/accomplishments/certificate/58DATZ8UCDHS
 
 ************************************************************************************************
 
-tensorflow 2 for deep learning (2 cources Approximately 3 months)
+tensorflow 2 for deep learning (2 courses Approximately 3 months)
 
 https://www.coursera.org/account/accomplishments/certificate/5JD7VX6GSGS6
 https://www.coursera.org/account/accomplishments/certificate/M8UVQKU4V4K6
 
 ************************************************************************************************
 
-mathematics for machine learning (2 cources Approximately 2 months)
+mathematics for machine learning (2 courses 46 hours (approximately))
 
 https://www.coursera.org/account/accomplishments/certificate/6SAHMHGCV2HJ
 https://www.coursera.org/account/accomplishments/certificate/MJJKDW2B3TNQ
 
 ************************************************************************************************
 
-tensorflow advance techniques (3 cources Approximately 2 months)
+tensorflow advance techniques (3 courses Approximately 2 months)
 
 https://www.coursera.org/account/accomplishments/certificate/82WA3ZVQUTL5
 https://www.coursera.org/account/accomplishments/certificate/J9JSHB48RUHH
