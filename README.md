@@ -1,6 +1,6 @@
 # online certificates from coursera
 
-python (4 courses Approximately 2-3 months)
+python (4 courses Approximately 2-3 months approximately 99 hours)
 
 https://www.coursera.org/account/accomplishments/certificate/UMDTDLYHYAS6
 https://www.coursera.org/account/accomplishments/certificate/WYK7PEPED93V
