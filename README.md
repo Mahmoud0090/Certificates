@@ -9,16 +9,20 @@ https://www.coursera.org/account/accomplishments/certificate/55WHHFU4KWP7
 
 
 Object-Oriented Data Structures in C++ (1 course - 21 hours (approximately))
+
 https://www.coursera.org/account/accomplishments/certificate/67Z6XNNGZ6L2
 
 C for Everyone: Structured Programming (9 hours)
+
 https://www.coursera.org/account/accomplishments/certificate/R7G45YBMJJHA
 
 C for Everyone: Programming Fundamentals (15 hours)
+
 https://www.coursera.org/account/accomplishments/certificate/ULGV4NQ3L4Z5
 
  
 machine learning specialization (3 courses Approximately 3 months)
+
 https://www.coursera.org/account/accomplishments/specialization/certificate/46W63A5J6NSE
 
 
@@ -34,9 +38,11 @@ https://www.coursera.org/account/accomplishments/specialization/certificate/TWJC
 
 
 Introduction to Calculus (58 hours)
+
 https://www.coursera.org/account/accomplishments/certificate/QVNW8YC3UQPG
 
 Differential Equations for Engineers (26 hours)
+
 https://www.coursera.org/account/accomplishments/certificate/3DLVHD2R5GQB
 
 
@@ -65,16 +71,20 @@ https://www.coursera.org/account/accomplishments/certificate/J9JSHB48RUHH
 https://www.coursera.org/account/accomplishments/certificate/VBGHYN7CC7ZK
 
 Linear circuits 1 : DC analysis (1 cource Approximately 1 month)
+
 https://www.coursera.org/account/accomplishments/certificate/XNN4M4K5XU42
 
 Linear circuits 2 : AC analysis (1 cource Approximately 1 month)
+
 https://www.coursera.org/account/accomplishments/verify/UV53XTWRY599
 
 intro to electronics (1 cource Approximately 1 month)
+
 https://www.coursera.org/account/accomplishments/verify/TZ2YRAJMKVY5
 
 
 The Arduino Platform and C Programming (1 cource Approximately 1 month)
+
 https://www.coursera.org/account/accomplishments/certificate/UQWGVRMD4GCT
 
 
