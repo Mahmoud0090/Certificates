@@ -9,6 +9,11 @@ https://www.coursera.org/account/accomplishments/certificate/55WHHFU4KWP7
 
 ************************************************************************************************
 
+Power electronics Specialization (4 courses)
+https://www.coursera.org/account/accomplishments/specialization/certificate/QMYLS33C2GXL
+
+************************************************************************************************
+
 Object-Oriented Data Structures in C++ (1 course - 21 hours (approximately))
 
 https://www.coursera.org/account/accomplishments/certificate/67Z6XNNGZ6L2
